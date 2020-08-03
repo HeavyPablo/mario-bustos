@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mario-bustos"
+    }
+  },
+  "defaultProject": "mario-bustos",
+  "cli": {
+    "analytics": "e0f95d4d-162e-41ff-a551-3df4f0f4fa8b"
+  }
 }
